@@ -13,13 +13,7 @@ for example, if `dest int` then the source must be `source int`.
 
 ### Installation
 
-You can use the `go install` method:
-
-```bash
-go install github.com/dalikewara/rflgo@latest
-```
-
-or, you can also use the `go get` method (DEPRECATED since `go1.17`):
+You can use the `go get` method:
 
 ```bash
 go get github.com/dalikewara/rflgo
