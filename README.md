@@ -132,4 +132,4 @@ Copyright &copy; 2021 [Dali Kewara](https://www.dalikewara.com)
 
 ### License
 
-[GNU General Public License v3](https://github.com/dalikewara/rflgo/blob/master/LICENSE)
+[MIT License](https://github.com/dalikewara/rflgo/blob/master/LICENSE)
